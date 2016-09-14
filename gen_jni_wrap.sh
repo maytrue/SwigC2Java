@@ -1,0 +1,1 @@
+swig -java example.i
